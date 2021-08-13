@@ -72,14 +72,14 @@ Abaixo, ilustro algumas das telas implementadas, de acordo com o protótipo do f
  <a href="https://github.com/GabrielPassos25/TesteInfluuMobile">
     <img src="./src/assets/print01.jpg" alt="Logo" width="400" height="900">
   <a href="https://github.com/GabrielPassos25/TesteInfluuMobile">
-    <img src="./src/assets/print02.jpg" alt="Logo" width="400" height="900">
+    <img src="./src/assets/print2.jpg" alt="Logo" width="400" height="900">
  </a>
  <a href="https://github.com/GabrielPassos25/TesteInfluuMobile">
-    <img src="./src/assets/print03.jpg" alt="Logo" width="400" height="900">
+    <img src="./src/assets/print3.jpg" alt="Logo" width="400" height="900">
  </a>
   <a href="https://github.com/GabrielPassos25/TesteInfluuMobile">
-    <img src="./src/assets/print04.jpg" alt="Logo" width="400" height="900">
+    <img src="./src/assets/print4.jpg" alt="Logo" width="400" height="900">
  </a>
   <a href="https://github.com/GabrielPassos25/TesteInfluuMobile">
-    <img src="./src/assets/print05.jpg" alt="Logo" width="400" height="900">
+    <img src="./src/assets/print5.jpg" alt="Logo" width="400" height="900">
  </a>
