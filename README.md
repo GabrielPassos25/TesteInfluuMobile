@@ -1,7 +1,7 @@
 <br />
 <p align="center">
 <a>
-    <img src="./src/assets/file01.png">
+    <img src="./src/assets/file01.PNG">
  </a>
 </p>
 <p align="center">
