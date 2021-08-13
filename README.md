@@ -69,6 +69,8 @@ Essas ferramentas são totalmente necessárias para a aplicação executar.
 ## Prints
 
 Abaixo, ilustro algumas das telas implementadas, de acordo com o protótipo do figma (https://www.figma.com/file/lEotjBEKAThazyY5MZBu6M/Teste-Mobile)
+
+
  <a href="https://github.com/GabrielPassos25/TesteInfluuMobile">
     <img src="./src/assets/print01.jpg" alt="Logo" width="400" height="900">
   <a href="https://github.com/GabrielPassos25/TesteInfluuMobile">
