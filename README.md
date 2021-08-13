@@ -36,7 +36,7 @@
 </details>
 
 ## Sobre o Projeto
-Esse projeto foi feito para a candidatura à vaga de desenvolvedor mobile na empresa influu.
+Esse projeto foi feito como um desafio da empressa influu.
 
 ### Construído Utilizando
 Essas ferramentas são totalmente necessárias para a aplicação executar.
